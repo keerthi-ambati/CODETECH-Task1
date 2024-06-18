@@ -31,14 +31,18 @@
 **FEATURES :**
 
 > Addition
+
 > Subtraction
+
 > Multiplication
+
 > Division (with a check to prevent division by zero)
 
 
 **PREREQUISITES :**
 
 > Java Development Kit (JDK) installed on your system
+
 > Basic understanding of running Java programs from the command line
 
 **TECHNOLOGIES USED :**
@@ -50,12 +54,17 @@
 **GETTING STARTED :**
 
 > Follow these instructions for running java code on your local machine for development and testing purposes:
+
 > Run the compiled Java program.
+
 **FOLLOW THE ON-SCREEN PROMPTS:**
 
 > Enter the first number.
+
 > Enter the second number.
+
 > Select the operation by entering the corresponding number (1 for addition, 2 for subtraction, 3 for multiplication, 4 for division).
+
 > The result of the operation will be displayed.
 
 
@@ -75,9 +84,12 @@ Result: 15.0
 **ERROR HANDLING :**
 
 > The program checks for division by zero and displays an appropriate error message if the second number is zero during a division operation.
+
 > If an invalid operation choice is entered, the program displays an "Invalid choice!" message.
 
 
 **ACKNOWLEDGEMENTS :**
+
 > Basic arithmetic operations inspiration
+
 > Java programming language documentation
