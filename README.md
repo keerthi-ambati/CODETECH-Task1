@@ -12,6 +12,8 @@
 
 **MENTOR :** G.SRAVANI
 
+
+
 **OVERVIEW OF THE PROJECT :**
 
 **PROJECT : SIMPLE CALCULATOR :**
@@ -21,7 +23,9 @@
 
 **DESCRIPTION :**
 
-> The Basic Calculator is a simple console-based Java program that performs basic arithmetic operations. Users can input two numbers and choose an operation (addition, subtraction, multiplication, or division) to perform on those numbers.
+> The Basic Calculator is a simple console-based Java program that performs basic arithmetic operations.
+
+>  Users can input two numbers and choose an operation (addition, subtraction, multiplication, or division) to perform on those numbers.
 
 
 **FEATURES :**
