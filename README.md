@@ -1,4 +1,4 @@
-# CODETECH-Task1
+# CODTECH-Task1
 
 **NAME :** AMBATI KEERTHI
 
