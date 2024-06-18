@@ -11,7 +11,7 @@
 
 **PROJECT : SIMPLE CALCULATOR :**
 
-
+![Screenshot 2024-06-18 224709](https://github.com/keerthi-ambati/CODETECH-Task1/assets/139665917/13d98694-b471-4382-8e87-d4c2a48bb75b)
 
 
 **DESCRIPTION :**
